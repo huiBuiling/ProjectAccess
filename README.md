@@ -12,3 +12,8 @@
 - 商城（h5, 废弃了）：47.112.253.77:30006
 - svg(头像):47.112.253.77:30007
 - svg(表情包)47.112.253.77:30008
+
+## 效果图群魔乱舞
+
+![image]([https://github.com/huiBuiling/ProjectAccess/blob/main/1.png])
+
