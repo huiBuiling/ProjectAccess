@@ -20,7 +20,7 @@
 ![image](https://github.com/huiBuiling/ProjectAccess/blob/main/4.png)
 ![image](https://github.com/huiBuiling/ProjectAccess/blob/main/5.png)
 ![image](https://github.com/huiBuiling/ProjectAccess/blob/main/5_2.png)
-![image](https://github.com/huiBuiling/ProjectAccess/blob/main/6.png)
+<!-- ![image](https://github.com/huiBuiling/ProjectAccess/blob/main/6.png) -->
 ![image](https://github.com/huiBuiling/ProjectAccess/blob/main/7.png)
 ![image](https://github.com/huiBuiling/ProjectAccess/blob/main/8.png)
 
